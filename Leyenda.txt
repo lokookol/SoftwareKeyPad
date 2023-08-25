@@ -1,0 +1,71 @@
+Tecla a presionar________Comando
+******************************IMPORTANTE******************************
+Shift____________________SHIFT
+Soltar Shift_____________SHIFTUP
+Control__________________CTRL
+Soltar Control___________CTRLUP
+Windows__________________WIN
+Soltar Windows___________WINUP
+Alt______________________ALT
+Soltar Alt_______________ALTUP
+AltGr____________________ALTGR
+Soltar AltGr_____________ALTGRUP
+
+En caso de que no se especifique soltar alguna de las teclas anteriores
+estas se soltarán automáticamente una vez haya finalizado la combinación
+de teclas.
+**********************************************************************
+
+Escape___________________ESC
+Tabulador________________TAB
+Bloqueo de mayúsculas____BLOCKMAYUS
+Espacio__________________SPACE
+Intro____________________ENTER
+Retroceso________________BACK
+
+Imprimir Pantalla________IMPRPANT
+Bloquear Desplazamiento__BLOQDESP
+
+Insert___________________INSERT
+Inicio___________________INICIO
+RePág____________________REPAG
+Suprimir_________________SUPR
+Fin______________________FIN
+AvPág____________________AVPAG
+
+Flecha Izquierda_________LEFT
+Flecha Arriba____________UP
+Flecha Abajo_____________DOWN
+Flecha Derecha___________RIGHT
+
+Numpad 0-9_______________NUMPAD0, NUMPAD1...
+
+******************************IMPORTANTE******************************
+El resto de teclas se deberán escribir en MAYÚSCULAS. Ejemplos:
+letra "a"________________A
+letra "A"________________SHIFT+A
+Palabra "Hola"___________SHIFT+H+SHIFTUP+O+L+A
+				ó
+		     BLOCKMAYUS+H+BLOCKMAYUS+O+L+A
+Simbolo arroba___________ALTGR+2
+etc. etc. etc.
+**********************************************************************
+
+Bloquear pantalla________WINLOCK
+
+Play/pausa_______________MEDIAPLAY
+Stop_____________________MEDIASTOP
+Siguiente________________MEDIANEXT
+Anterior_________________MEDIAPREV
+
+Subir volumen____________VOLUP
+Bajar volumen____________VOLDOWN
+Mutear volumen___________VOLMUTE
+
+******************************IMPORTANTE******************************
+Para abrir directorios o aplicaciones____________CMD+"Ruta del archivo o ruta de la aplicación"
+Para abrur URL en el navegador predeterminado____URL+"URL"
+
+Estas funciones son las únicas que no se escribe todo en mayúsculas,
+solo se escribirá en mayúsculas la parte de "CMD" o la parte de "URL".
+**********************************************************************
